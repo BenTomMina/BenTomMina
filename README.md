@@ -9,8 +9,8 @@
 
 <p align="left">
   <em>
-   I'm Ben an aspiring Full Stack Developer taking a diploma course at Mission Ready HQ.  <br> <br>
-  I have participated in projects which have built the foundation of my skills and mindset as a programmer. <br> <br>
+   I'm Ben an aspiring Full Stack Developer taking a diploma course at Mission Ready HQ  <br> <br>
+  I have participated in projects which have built the foundation of my skills and mindset as a programmer <br> <br>
   I am particularly interested in exploring AI and how they can be integrated with web applications <br><br>
     I want to absorb as much as I can to be the best developer I can be <br><br>
     I have a long journey ahead of me but I am excited to take every step wherever it may lead me
