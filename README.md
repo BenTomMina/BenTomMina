@@ -20,56 +20,28 @@
 </p>
 <hr>
 
-<img align="right" width=300px alt="Hippo" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
+<img align="right" width=300px alt="Hippo" src="icons/hippodance.gif" />
 
 ***About Me***
 <p align="left">
-✔ Pronouns: ***He/His*** or ***TeamMaker***😉 <br>
-✔ I’m currently Developing **Paycron** Payment Gateway **@Plaxonic**<br>
-✔ I’m currently learning **ReactJS** & **NodeJS**<br>
-✔ I’m looking to collaborate with any **Open - Source contribution**<br>
-✔ I’m looking for help for learning **Remote Sensing**<br>
-✔ I regularly write articles on [GeeksforGeeks](https://auth.geeksforgeeks.org/user/akash_chowrasia/articles) <br>
-✔ I use to write coad on [leetcode](https://leetcode.com/Akash_Chowrasia/) <br>
-✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
-✔ Fun fact : *At The time of Stress coding, I use to be in half sleeping mode*<br><br><br><br>
-  
+I was formerly an Accounts Assistant <br>
+I like to keep active with exercise and sports<br>
+My top 3 animals are wolves, bears, and hippos<br>
+In my free time I like to game<br>
+  My music ranges from Nightwish to Taylor Swift<br>
+Fun fact : I once ate 9 cups of rice in a single meal
 </p>
 
- 
+ <hr>
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Languages & Tools I Know...***
-<p align="left">
-  
-  <code><img height="50" src="https://github.com/uannabi/-/blob/master/resource/python-icon.svg"></code><code> 
-  <img height="50" src="https://github.com/uannabi/-/blob/master/resource/dj.svg"> </code>
-  <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/jp.svg"> </code>
-  <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/docker-ar21.svg"> </code>
-  <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/git.svg"> </code>
-  <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/linux-ar21.svg"> </code>
-  <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/other/apache_hadoop-ar21.svg"> </code>
-  <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/other/mongodb-ar21.svg"> </code>
-  <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/other/sqlite-ar21.svg"> </code>
-  <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/other/mysql-ar21.svg"> </code>
-  <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/other/postgresql-ar21.svg"> </code>
-  <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"> </code>
-  <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"> </code>
-  <code> <img height="50" src="https://github.com/Akash-chowrasia/Akash-chowrasia/blob/main/images/flask.svg"> </code>
-  <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"> </code>
-  <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"> </code>
-  <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> </code>
-  <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"> </code>
-  <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"> </code>
-  <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"> </code>
-  <code> <img height="50" src="  https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg
-"> </code>
-  <hr>
-  <p align="center">
+***Current Techstack***
+<p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akash-chowrasia&show_icons=true&locale=en&layout=compact" alt="akash-chowrasia" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akash-chowrasia&show_icons=true&locale=en" alt="akash-chowrasia" width="410" /></p>
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css,express,github,mongodb,mysql,nodejs,react,vscode,)](https://skillicons.dev)
+<p>
+<br>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BenTomMina&show_icons=true&locale=en&layout=compact" alt="BenTomMina" />
+</p>
 
 <hr>
------
-Credits: [Ben Mina](https://github.com/BenTomMina)
