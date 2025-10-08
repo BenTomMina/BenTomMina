@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Ben Mina</h1>
 <h3 align="center">Full Stack Developer
 <p align="center">
-<a href="https://www.linkedin.com/in/bentommina" target="blank"><img align="center" src="https://www.svgrepo.com/svg/475661/linkedin-color" alt="benm" height="30" width="40" /></a>
-<a href = "mailto: bentommina@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/bentommina" target="blank"><img align="center" src="icons/LinkedinIconColored.png" alt="benm" height="40" width="40" /></a>
+<a href = "mailto: bentommina@gmail.com"><img align="center" src="icons/MailIcon.png" height="40" width="40" /></a>
 </p>
 </p>
 
